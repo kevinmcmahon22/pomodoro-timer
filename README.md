@@ -1,7 +1,5 @@
 # pomodoro-timer
 
-I made a timer circuit for using the Pomodoro Technique. 
-
 ![timer in action](https://user-images.githubusercontent.com/46839498/104274368-4d95ea80-5466-11eb-9fdc-d3a9af1fe43e.jpg)
 
 ### Parts
